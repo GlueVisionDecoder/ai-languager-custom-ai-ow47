@@ -1,4 +1,4 @@
-# 
+# Automático AI Language Translator (Custom) flujo de trabajo. Con reconocimiento de voz y entrenamiento de modelos — optimizado para el máximo rendimiento.
 
 
 
